@@ -1,6 +1,6 @@
 # Cubic-Bezier-Spline-Tool
 
-This exercise involves building a limited pen tool that creates and manipulates a cubic Bezier spline. The program allows users to add nodes by clicking on the window, connect these nodes as a spline, and render the spline. Users can move existing nodes and their control points to modify the spline.
+This project involves building a limited pen tool that creates and manipulates a cubic Bezier spline. The program allows users to add nodes by clicking on the window, connect these nodes as a spline, and render the spline. Users can move existing nodes and their control points to modify the spline.
 
 ## Instructions
 
